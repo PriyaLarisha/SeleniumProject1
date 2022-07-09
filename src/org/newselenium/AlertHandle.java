@@ -63,7 +63,7 @@ public static void main(String[] args) throws InterruptedException {
 	     String text=alert3.getText();
 	 
 	     System.out.println(text);
-	 
+System.out.println(text);	 
 	     alert3.sendKeys("priya");
 	 
 	     Thread.sleep(3000);
@@ -84,10 +84,7 @@ public static void main(String[] args) throws InterruptedException {
 	    
 	    
 	    
-	  
-	    
-	   
-	    
+	      
 	    
 	    
 	    
